@@ -34,6 +34,7 @@ The project covers:
 - **Data visualization & storytelling** in Power BI
 - **Actionable insights** for operational improvement
 
+> 🔗 **[View the Live Power BI Dashboard](https://app.powerbi.com/groups/me/reports/9b688526-2520-4096-8033-992822866b65/2376429563721e811450?ctid=3c32c29c-85ba-45ef-9a06-92fcd610a8d2&experience=power-bi)** – Fully interactive report with filters.
 ---
 
 ## 2. Business Problem
