@@ -4,20 +4,20 @@ Analyzing 110K+ healthcare appointments to uncover why patients miss visits. Bui
 ---
 
 ## 📌 Table of Contents
-1. [Project Overview](#project-overview)
-2. [Business Problem](#business-problem)
-3. [Objectives](#objectives)
-4. [Dataset](#dataset)
-5. [Technical Workflow](#technical-workflow)
+1. [Project Overview](#1-project-overview)
+2. [Business Problem](#2-business-problem)
+3. [Objectives](#3-objectives)
+4. [Dataset](#4-dataset)
+5. [Technical Workflow](#5-technical-workflow)
     - [Data Preparation in MySQL](#a-data-preparation-in-mysql)
     - [Dimensional Modelling](#b-dimensional-modelling)
     - [Data Enrichment](#c-data-enrichment)
     - [Power BI Connection & Transformation](#d-power-bi-connection--transformation)
     - [Dashboard Development](#e-dashboard-development)
-6. [Key Features of the Solution](#key-features-of-the-solution)
-7. [Power BI Pages Overview](#power-bi-pages-overview)
-8. [Skills Demonstrated](#skills-demonstrated)
-9. [Next Steps](#next-steps)
+6. [Key Features of the Solution](#6-key-features-of-the-solution)
+7. [Power BI Pages Overview](#7-power-bi-pages-overview)
+8. [Skills Demonstrated](#8-skills-demonstrated)
+9. [Next Steps](#9-next-steps)
 
 ---
 
@@ -139,7 +139,7 @@ Created a **Star Schema** with:
 
 ---
 
-## 6️. Key Features of the Solution
+## 6. Key Features of the Solution
 - **Role-specific insights:** Pages tailored for executives, operations managers, and outreach teams.
 - **Dynamic filtering:** By gender, socioeconomic status, age group, region, and zone.
 - **Trend & distribution analysis:** Patterns over time, by location, and patient demographics.
