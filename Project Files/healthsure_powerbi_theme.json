@@ -1,0 +1,71 @@
+{
+    "name": "HealthSure Clinics Theme",
+    "dataColors": [
+        "#4B3988",
+        "#CF3136",
+        "#E37F7C",
+        "#433476",
+        "#F7F7F7",
+        "#333333"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#4B3988",
+    "tableAccent": "#433476",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "titleText": [
+                    {
+                        "fontSize": 20,
+                        "fontFamily": "Segoe UI Semibold",
+                        "color": {
+                            "solid": {
+                                "color": "#4B3988"
+                            }
+                        }
+                    }
+                ],
+                "labelText": [
+                    {
+                        "fontSize": 12,
+                        "fontFamily": "Segoe UI",
+                        "color": {
+                            "solid": {
+                                "color": "#433476"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "card": {
+            "*": {
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#4B3988"
+                            }
+                        },
+                        "fontSize": 28
+                    }
+                ]
+            }
+        },
+        "slicer": {
+            "*": {
+                "header": [
+                    {
+                        "fontSize": 14,
+                        "fontFamily": "Segoe UI Semibold",
+                        "color": {
+                            "solid": {
+                                "color": "#4B3988"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
