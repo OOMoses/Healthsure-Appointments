@@ -16,7 +16,7 @@ Analyzing 110K+ healthcare appointments to uncover why patients miss visits. Bui
     - [Dashboard Development](#e-dashboard-development)
 6. [Key Features of the Solution](#6-key-features-of-the-solution)
 7. [Power BI Pages Overview](#7-power-bi-pages-overview)
-8. [Insights & Recommendation](#8-insights-&-recommendation)
+8. [Insights and Recommendations](#8-insights-and-recommendations)
 9. [Skills Demonstrated](#9-skills-demonstrated)
 10. [Next Steps](#10-next-steps)
 
@@ -157,21 +157,30 @@ Created a **Star Schema** with:
 
 ---
 
-## 8. Insights & Recommendation
+## 8. Insights and Recommendations
 ### 1. Access & Equity
 ***What We Found:*** HealthSure managed 110,527 appointments, with low-income patients making up 75% of visits. No-show rates are high everywhere (~80%), but Santa Martha (84.2%) and Tabuazeiro (81.7%) stand out for both their large appointment volumes and high miss rates.
+
 ***What to Do Next:*** Concentrate early action in Santa Martha and Tabuazeiro — a targeted transport assistance and reminder campaign here could recover over 8,000 missed visits annually.
+
 ### 2. Geographic Performance
 ***What We Found:*** Jardim Camburi is the busiest hub (7,717 appointments) but has an 81% no-show rate. Jardim da Penha, while smaller in volume, has the highest miss rate among middle-income areas (83.7%).
+
 ***What to Do Next:*** Shift 10% of Jardim da Penha’s appointment slots to Jardim Camburi to reduce wasted capacity and increase throughput where demand is highest.
+
 ### 3. Patient Behaviour & Risk
 ***What We Found:*** Older patients (60–79) miss 85% of their bookings. Patients with diabetes (82.7%) and hypertension (82.6%) are also at higher risk, while those with disabilities show better attendance (72.1%).
+
 ***What to Do Next:*** For older and high-risk patients, pre-book follow-ups before they leave the clinic and add a second contact point (call or SMS) 24 hours before the visit.
+
 ### 4. Operational Efficiency
 ***What We Found:*** Mornings (7–9 a.m.) carry 47,385 bookings but have no-show rates of 81–84%. Evenings (7–8 p.m.) have much lower miss rates (67–72%) but only ~1,540 bookings. Attendees wait 12.3 days; no-shows wait 21.5 days.
+
 ***What to Do Next:*** Reallocate 15% of morning capacity to evening slots and set a maximum 14-day wait target to improve attendance and reduce idle clinical time.
+
 ### 5. Loyalty & Engagement
 ***What We Found:*** Only 39% of patients return for repeat visits. Welfare patients have better attendance (76.3% no-show) than others (80.2% no-show), and current SMS reminders show no consistent improvement unless multiple reminders are sent.
+
 ***What to Do Next:*** Create a priority rebooking program for past attendees and redesign reminder strategies to include multiple touchpoints for high-risk patients
 
 ---
