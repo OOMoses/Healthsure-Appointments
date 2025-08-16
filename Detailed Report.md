@@ -16,7 +16,7 @@ Analyzing 110K+ healthcare appointments to uncover why patients miss visits. Bui
     - [Dashboard Development](#e-dashboard-development)
 6. [Key Features of the Solution](#6-key-features-of-the-solution)
 7. [Power BI Pages Overview](#7-power-bi-pages-overview)
-8. [Insights and Recommendations](#8-insights-and-recommendations)
+8. [Insights & Recommendations](#8-insights--recommendations)
 9. [Skills Demonstrated](#9-skills-demonstrated)
 10. [Next Steps](#10-next-steps)
 
@@ -157,7 +157,7 @@ Created a **Star Schema** with:
 
 ---
 
-## 8. Insights and Recommendations
+## 8. Insights & Recommendations
 ### 1. Access & Equity
 ***What We Found:*** HealthSure managed 110,527 appointments, with low-income patients making up 75% of visits. No-show rates are high everywhere (~80%), but Santa Martha (84.2%) and Tabuazeiro (81.7%) stand out for both their large appointment volumes and high miss rates.
 
