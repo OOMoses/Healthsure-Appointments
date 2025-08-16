@@ -12,9 +12,9 @@ This project shows a **real-world analytics engagement** — from database desig
     - [View the Live Power BI Dashboard](#view-the-live-power-bi-dashboard)
 4. [Insights Deep Dive](#4-insights-deep-dive)
 5. [Recommendations](#5-recommendations)
-6. [Technical Implementation](#7-technical-implementation)
-7. [Caveats & Assumptions](#8-caveats--assumptions)
-8. [Business Impact](#9-business-impact)
+6. [Technical Implementation](#6-technical-implementation)
+7. [Caveats & Assumptions](#7-caveats--assumptions)
+8. [Business Impact](#8-business-impact)
 
 ---
 
