@@ -11,10 +11,9 @@ This project shows a **real-world analytics engagement** — from database desig
 3. [Executive Summary](#3-executive-summary)
 4. [Insights Deep Dive](#4-insights-deep-dive)
 5. [Recommendations](#5-recommendations)
-6. [Key Visuals](#6-key-visuals-insert-screenshots)
-7. [Technical Implementation](#7-technical-implementation)
-8. [Caveats & Assumptions](#8-caveats--assumptions)
-9. [Business Impact](#9-business-impact)
+6. [Technical Implementation](#7-technical-implementation)
+7. [Caveats & Assumptions](#8-caveats--assumptions)
+8. [Business Impact](#9-business-impact)
 
 ---
 
@@ -41,7 +40,6 @@ Analysis powered by **110,527 appointment records** enriched with geographic & s
 ---
 
 ## 3. Executive Summary
-After peaking in late 2022, attendance rates remain critically low (~20%).  
 
 **Key Findings:**  
 - **Geographic Hotspots:** Santa Martha (84.2% no-show), Tabuazeiro (81.7%)  
@@ -76,17 +74,7 @@ After peaking in late 2022, attendance rates remain critically low (~20%).
 
 ---
 
-## 6. Key Visuals *(insert screenshots)*
-- Attendance by Neighbourhood – High-risk hotspot map  
-- No-Show Trends by Time of Day – AM vs PM performance  
-- Wait Time Impact – Scatterplot of lead days vs attendance  
-- Demographic Breakdown – Age, gender, chronic conditions  
-
-> *(Add actual screenshots in `assets/` folder and link here)*
-
----
-
-## 7. Technical Implementation
+## 6. Technical Implementation
 - **SQL (MySQL):** Data cleaning, indexing, star schema design  
 - **Data Enrichment:** Mapping locations to regions, zones, and socioeconomic classes  
 - **Power BI:** Branded dashboard with mobile-friendly navigation  
@@ -96,14 +84,14 @@ After peaking in late 2022, attendance rates remain critically low (~20%).
 
 ---
 
-## 8. Caveats & Assumptions
+## 7. Caveats & Assumptions
 - Data is historical and may not reflect recent operational changes  
 - Some patient data (e.g., chronic conditions) is self-reported  
 - Socioeconomic levels based on neighbourhood averages  
 
 ---
 
-## 9. Business Impact
+## 8. Business Impact
 Implementing these changes could:  
 - Recover **thousands of missed visits annually**  
 - Improve **operational efficiency & staff utilisation**  
