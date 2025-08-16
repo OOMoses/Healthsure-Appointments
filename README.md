@@ -10,7 +10,7 @@ Analyzing 110K+ healthcare appointments to uncover why patients miss visits. Bui
 4. [Dataset](#dataset)
 5. [Technical Workflow](#technical-workflow)
     - [Data Preparation in MySQL](#a-data-preparation-in-mysql)
-    - [Dimensional Modeling](#b-dimensional-modeling)
+    - [Dimensional Modelling](#b-dimensional-modelling)
     - [Data Enrichment](#c-data-enrichment)
     - [Power BI Connection & Transformation](#d-power-bi-connection--transformation)
     - [Dashboard Development](#e-dashboard-development)
@@ -21,8 +21,9 @@ Analyzing 110K+ healthcare appointments to uncover why patients miss visits. Bui
 
 ---
 
-Dashboard Picture
+![HealthSure Appointments Dashboard](HealthSure%20Appointments%20Dashboard%20PNG.png)
 
+---
 ## 1. Project Overview
 This project is an **end-to-end Business Intelligence workflow** for a healthcare organization, *Healthsure Clinics*, aiming to understand and improve patient attendance rates for scheduled appointments.
 
@@ -100,6 +101,7 @@ Created a **Star Schema** with:
 - `location_dim`  
   *(LocationKey, Neighbourhood, AdministrativeRegion, Zone, SocioeconomicStatus)*
 
+![HealthSure Appointments ERD](ERD_HealthSure_Appointments_Dashboard_PNG.png)
 ---
 
 ### C. Data Enrichment
@@ -137,7 +139,7 @@ Created a **Star Schema** with:
 
 ---
 
-## 6️⃣ Key Features of the Solution
+## 6️. Key Features of the Solution
 - **Role-specific insights:** Pages tailored for executives, operations managers, and outreach teams.
 - **Dynamic filtering:** By gender, socioeconomic status, age group, region, and zone.
 - **Trend & distribution analysis:** Patterns over time, by location, and patient demographics.
@@ -145,7 +147,7 @@ Created a **Star Schema** with:
 
 ---
 
-## 7️⃣ Power BI Pages Overview
+## 7. Power BI Pages Overview
 1. **Executive Summary** – KPIs, top-level trends, and filters.
 2. **Access & Equity** – Socioeconomic and regional disparities.
 3. **Patient Profiles** – Demographic & health condition patterns.
@@ -154,7 +156,7 @@ Created a **Star Schema** with:
 
 ---
 
-## 8️⃣ Skills Demonstrated
+## 8. Skills Demonstrated
 - **SQL:** Data wrangling, indexing, and optimized joins.
 - **Data Modeling:** Star schema design for BI.
 - **Data Enrichment:** External data mapping and integration.
@@ -165,7 +167,7 @@ Created a **Star Schema** with:
 
 ---
 
-## 9️⃣ Next Steps
+## 9. Next Steps
 - Integrate **real-time appointment booking feeds**.
 - Add **predictive modeling** for no-show likelihood.
 - Expand reports to include **financial impact analysis** of missed appointments.
