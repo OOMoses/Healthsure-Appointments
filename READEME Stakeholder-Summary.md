@@ -45,8 +45,6 @@ Analysis powered by **110,527 appointment records** enriched with geographic & s
 
 > 🔗 **[Fully interactive report with filters](https://app.powerbi.com/groups/me/reports/9b688526-2520-4096-8033-992822866b65/2376429563721e811450?ctid=3c32c29c-85ba-45ef-9a06-92fcd610a8d2&experience=power-bi)**
 
-### A. Data Preparation in MySQL
-
 **Key Findings:**  
 - **Geographic Hotspots:** Santa Martha (84.2% no-show), Tabuazeiro (81.7%)  
 - **Demographic Risks:** Older patients (60–79) → 85% miss rate; diabetic/hypertensive patients → 82%+ miss rate  
