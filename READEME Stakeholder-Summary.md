@@ -1,11 +1,24 @@
 # HealthSure Clinics – Reducing Appointment No-Shows
 
 Analyzing **110K+ healthcare appointments** to uncover the drivers of missed visits and deliver **actionable strategies** to improve attendance.  
-This project replicates a **real-world analytics engagement** — from database design to a **stakeholder-ready deliverable** — demonstrating both **technical execution** and **business impact**.
+This project shows a **real-world analytics engagement** — from database design to a **stakeholder-ready deliverable** — demonstrating both **technical execution** and **business impact**.
 
 ---
 
-## 1. Background & Project Context
+## 📌 Table of Contents
+1. [Background and Project Context](#1-background-and-project-context)
+2. [Business Problem](#2-data-structure-overview)
+3. [Executive Summary](#3-executive-summary)
+4. [Insights Deep Dive](#4-insights-deep-dive)
+5. [Recommendations](#5-recommendations)
+6. [Key Visuals](#6-key-visuals-insert-screenshots)
+7. [Technical Implementation](#7-technical-implementation)
+8. [Caveats & Assumptions](#8-caveats--assumptions)
+9. [Business Impact](#9-business-impact)
+
+---
+
+## 1. Background and Project Context
 **Company:** HealthSure Clinics (Brazil outpatient network)  
 **Stakeholder:** Head of Operations  
 **Challenge:** High no-show rates (~80%) are creating operational strain and lost revenue, with attendance stuck near 20%.  
@@ -23,7 +36,7 @@ Analysis powered by **110,527 appointment records** enriched with geographic & s
   - `location_dim` – Neighbourhood, administrative region, zone, socioeconomic status  
   - `date_dim` – Calendar and time-based attributes  
 
-> *![ERD Diagram](assets/erd.png)*
+> ![HealthSure Appointments ERD](ERD_HealthSure_Appointments_Dashboard_PNG.png)
 
 ---
 
