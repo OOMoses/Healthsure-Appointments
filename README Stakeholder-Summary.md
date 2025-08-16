@@ -36,7 +36,7 @@ Analysis powered by **110,527 appointment records** enriched with geographic & s
   - `location_dim` – Neighbourhood, administrative region, zone, socioeconomic status  
   - `date_dim` – Calendar and time-based attributes  
 
-> ![HealthSure Appointments ERD](ERD_HealthSure_Appointments_Dashboard_PNG.png)
+> ![HealthSure Appointments ERD](Project%20Files/ERD_HealthSure_Appointments_Dashboard_PNG.png)
 
 ---
 
