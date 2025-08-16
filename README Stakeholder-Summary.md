@@ -34,7 +34,6 @@ Analysis powered by **110,527 appointment records** enriched with geographic & s
 - **Dimensions:**  
   - `patient_dim` – Demographics, social welfare status  
   - `location_dim` – Neighbourhood, administrative region, zone, socioeconomic status  
-  - `date_dim` – Calendar and time-based attributes  
 
 > ![HealthSure Appointments ERD](Project%20Files/ERD_HealthSure_Appointments_Dashboard_PNG.png)
 
