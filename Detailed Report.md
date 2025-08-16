@@ -102,7 +102,7 @@ Created a **Star Schema** with:
 - `location_dim`  
   *(LocationKey, Neighbourhood, AdministrativeRegion, Zone, SocioeconomicStatus)*
 
-![HealthSure Appointments ERD](ERD_HealthSure_Appointments_Dashboard_PNG.png)
+> ![HealthSure Appointments ERD](ERD_HealthSure_Appointments_Dashboard_PNG.png)
 ---
 
 ### C. Data Enrichment
