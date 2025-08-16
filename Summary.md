@@ -1,4 +1,4 @@
-# HealthSure Clinics – Reducing No-Shows
+# HealthSure Clinics – Reducing Appointment No-Shows
 
 Analyzing **110K+ healthcare appointments** to uncover the drivers of missed visits and deliver **actionable strategies** to improve attendance.  
 This project replicates a **real-world analytics engagement** — from database design to a **stakeholder-ready deliverable** — demonstrating both **technical execution** and **business impact**.
@@ -9,7 +9,7 @@ This project replicates a **real-world analytics engagement** — from database 
 **Company:** HealthSure Clinics (Brazil outpatient network)  
 **Stakeholder:** Head of Operations  
 **Challenge:** High no-show rates (~80%) are creating operational strain and lost revenue, with attendance stuck near 20%.  
-**Goal:** Identify **who**, **where**, and **when** no-shows happen — then recommend targeted actions to improve attendance, efficiency, and equity.  
+**Goal:** Identify **who**, **where**, and **when** no-shows happen; recommend targeted actions to improve attendance, efficiency, and equity.  
 
 ---
 
