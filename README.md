@@ -16,15 +16,15 @@ Analyzing 110K+ healthcare appointments to uncover why patients miss visits. Bui
     - [Dashboard Development](#e-dashboard-development)
 6. [Key Features of the Solution](#key-features-of-the-solution)
 7. [Power BI Pages Overview](#power-bi-pages-overview)
-8. [Insights & Recommendations](#insights--recommendations)
-9. [Skills Demonstrated](#skills-demonstrated)
-10. [Next Steps](#next-steps)
-11. [Repository Structure](#repository-structure)
+8. [Skills Demonstrated](#skills-demonstrated)
+9. [Next Steps](#next-steps)
 
 ---
 
+Dashboard Picture
+
 ## 1. Project Overview
-This project simulates an **end-to-end Business Intelligence workflow** for a healthcare organization, *Healthsure Clinic*, aiming to understand and improve patient attendance rates for scheduled appointments.
+This project is an **end-to-end Business Intelligence workflow** for a healthcare organization, *Healthsure Clinics*, aiming to understand and improve patient attendance rates for scheduled appointments.
 
 The project covers:
 - **Data acquisition & staging** (MySQL)
@@ -87,7 +87,7 @@ CREATE INDEX idx_stg_appointments_neighbourhood
 CREATE INDEX idx_location_neighbourhood 
     ON location_dim(Neighbourhood);
 ```
-### B. Dimensional Modeling
+### B. Dimensional Modelling
 Created a **Star Schema** with:
 
 **Fact Table:**
@@ -154,21 +154,7 @@ Created a **Star Schema** with:
 
 ---
 
-## 8️⃣ Insights & Recommendations
-
-**Example 1:**  
-AND: Most appointments occur in middle-income neighborhoods AND attendance rates are generally above 75%.  
-BUT: Low-income zones show a significantly higher no-show rate (~35%).  
-THEREFORE: Target low-income areas with outreach campaigns and flexible scheduling options.
-
-**Example 2:**  
-AND: Patients with hypertension are a large portion of the clinic's population.  
-BUT: They have slightly higher no-show rates compared to non-hypertensive patients.  
-THEREFORE: Implement a follow-up reminder specifically for chronic patients.
-
----
-
-## 9️⃣ Skills Demonstrated
+## 8️⃣ Skills Demonstrated
 - **SQL:** Data wrangling, indexing, and optimized joins.
 - **Data Modeling:** Star schema design for BI.
 - **Data Enrichment:** External data mapping and integration.
@@ -179,7 +165,7 @@ THEREFORE: Implement a follow-up reminder specifically for chronic patients.
 
 ---
 
-## 🔟 Next Steps
+## 9️⃣ Next Steps
 - Integrate **real-time appointment booking feeds**.
 - Add **predictive modeling** for no-show likelihood.
 - Expand reports to include **financial impact analysis** of missed appointments.
