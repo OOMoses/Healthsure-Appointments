@@ -22,7 +22,7 @@ Analyzing 110K+ healthcare appointments to uncover why patients miss visits. Bui
 
 ---
 
-![HealthSure Appointments Dashboard](HealthSure%20Appointments%20Dashboard%20PNG.png)
+> ![HealthSure Appointments Dashboard](Project%20Files/HealthSure%20Appointments%20Dashboard%20PNG.png)
 
 ---
 ## 1. Project Overview
@@ -102,7 +102,7 @@ Created a **Star Schema** with:
 - `location_dim`  
   *(LocationKey, Neighbourhood, AdministrativeRegion, Zone, SocioeconomicStatus)*
 
-> ![HealthSure Appointments ERD](ERD_HealthSure_Appointments_Dashboard_PNG.png)
+> ![HealthSure Appointments ERD](Project%20Files/ERD_HealthSure_Appointments_Dashboard_PNG.png)
 ---
 
 ### C. Data Enrichment
