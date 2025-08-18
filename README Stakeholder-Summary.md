@@ -45,15 +45,17 @@ Analysis powered by **110,527 appointment records** enriched with geographic & s
 
 ---
 
-## 3. Executive Summary
+## 3. Executive Summary  
 
-**Key Findings:**  
-- **Geographic Hotspots:** Santa Martha (84.2% no-show), Tabuazeiro (81.7%)  
-- **Demographic Risks:** Older patients (60–79) → 85% miss rate; diabetic/hypertensive patients → 82%+ miss rate  
-- **Time-of-Day Effect:** Mornings (7–9 a.m.) → ~83% miss rate; evenings → ~70%  
-- **Wait Time Effect:** No-shows wait ~9 days longer on average  
-- **Loyalty Gap:** Only 39% return for repeat visits  
-- **Reminder Weakness:** Single SMS reminders have minimal effect; multiple touchpoints perform better  
+HealthSure Clinics faces a **critical no-show problem**: nearly **8 in 10 appointments are missed**, costing the clinic lost revenue and reducing patient access to care.  
+
+**Key Insights:**  
+- 📍 **Geographic Hotspots:** Santa Martha (84.2%) and Tabuazeiro (81.7%) show the worst attendance.  
+- 👥 **Demographic Risks:** Older patients (60–79) and those with diabetes/hypertension are most at risk (>82% miss rates).  
+- ⏰ **Time-of-Day Effect:** Mornings (7–9 a.m.) show ~83% no-shows; evenings perform better (~70%) but are underutilized.  
+- 🕒 **Wait Time Effect:** No-shows waited ~9 days longer (21.5 vs 12.3 days).  
+- 🔄 **Loyalty Gap:** Only 39% of patients return for repeat visits.  
+- 📲 **Reminder Weakness:** Single SMS reminders are ineffective; multiple touchpoints deliver better results.  
 
 ---
 
@@ -70,13 +72,17 @@ Analysis powered by **110,527 appointment records** enriched with geographic & s
 
 ---
 
-## 5. Recommendations
-1. **Target Top 3 Neighbourhoods:** Transport support, flexible scheduling, multi-touch reminders.  
-2. **Condition-Specific Outreach:** Pre-book follow-ups for older/chronic patients before they leave the clinic.  
-3. **Rebalance Appointment Slots:** Move ~15% of morning slots to evening.  
-4. **Reduce Wait Times:** Cap at 14 days for high-risk groups.  
-5. **Build a Loyalty Program:** Priority booking & follow-up for returning patients.  
-6. **Redesign Reminders:** Test frequency, timing, and format to boost attendance.  
+## 5. Recommendations  
+
+To address these challenges, we recommend a **5-point action plan**:  
+
+1. **Neighborhood Targeting** – Focus first on Santa Martha, Tabuazeiro, and Jardim da Penha with **transport support, flexible scheduling, and multi-touch reminders**.  
+2. **Condition-Specific Outreach** – Pre-book follow-ups for older patients and those with chronic illnesses before they leave the clinic.  
+3. **Rebalance Appointment Slots** – Shift **~15% of morning slots to evenings** to improve utilization.  
+4. **Reduce Wait Times** – Cap waits at **≤14 days** for high-risk patients.  
+5. **Build Loyalty & Improve Reminders** – Launch a **priority rebooking program** for past attendees and test **multi-touch reminder strategies** (e.g., SMS + calls).  
+
+*⚡ **Impact:** Implementing these changes could recover **thousands of missed visits annually**, improve operational efficiency, and strengthen equity for vulnerable patient groups.*
 
 ---
 
