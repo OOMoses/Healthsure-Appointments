@@ -14,7 +14,6 @@ Click below to view the Live report
 1. [Background and Project Context](#1-background-and-project-context)
 2. [Business Problem](#2-data-structure-overview)
 3. [Executive Summary](#3-executive-summary)
-    - [View the Live Power BI Dashboard](#view-the-live-power-bi-dashboard)
 4. [Insights Deep Dive](#4-insights-deep-dive)
 5. [Recommendations](#5-recommendations)
 6. [Technical Implementation](#6-technical-implementation)
@@ -45,9 +44,6 @@ Analysis powered by **110,527 appointment records** enriched with geographic & s
 ---
 
 ## 3. Executive Summary
-### View the Live Power BI Dashboard
-
-> 🔗 **[Fully interactive report with filters]([https://app.powerbi.com/groups/me/reports/9b688526-2520-4096-8033-992822866b65/2376429563721e811450?ctid=3c32c29c-85ba-45ef-9a06-92fcd610a8d2&experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiNWU5OGFhMDUtYmYyOS00ZDA3LWFkMDUtYzU0ZDllMDQ0Zjk1IiwidCI6IjNjMzJjMjljLTg1YmEtNDVlZi05YTA2LTkyZmNkNjEwYThkMiJ9))**
 
 **Key Findings:**  
 - **Geographic Hotspots:** Santa Martha (84.2% no-show), Tabuazeiro (81.7%)  
