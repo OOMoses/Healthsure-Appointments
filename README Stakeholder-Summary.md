@@ -42,7 +42,7 @@ Analysis powered by **110,527 appointment records** enriched with geographic & s
 ## 3. Executive Summary
 ### View the Live Power BI Dashboard
 
-> 🔗 **[Fully interactive report with filters](https://app.powerbi.com/groups/me/reports/9b688526-2520-4096-8033-992822866b65/2376429563721e811450?ctid=3c32c29c-85ba-45ef-9a06-92fcd610a8d2&experience=power-bi)**
+> 🔗 **[Fully interactive report with filters]([https://app.powerbi.com/groups/me/reports/9b688526-2520-4096-8033-992822866b65/2376429563721e811450?ctid=3c32c29c-85ba-45ef-9a06-92fcd610a8d2&experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiNWU5OGFhMDUtYmYyOS00ZDA3LWFkMDUtYzU0ZDllMDQ0Zjk1IiwidCI6IjNjMzJjMjljLTg1YmEtNDVlZi05YTA2LTkyZmNkNjEwYThkMiJ9))**
 
 **Key Findings:**  
 - **Geographic Hotspots:** Santa Martha (84.2% no-show), Tabuazeiro (81.7%)  
