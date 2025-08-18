@@ -1,5 +1,11 @@
 # Healthsure-Appointments
 Analyzing 110K+ healthcare appointments to uncover why patients miss visits. Built a clean MySQL database, enriched it with location and socioeconomic details, and designed an interactive Power BI dashboard for quick, clear insights that help clinics act fast.
+> ![HealthSure Appointments Dashboard](Project%20Files/HealthSure%20Appointments%20Dashboard%20PNG.png)
+> ## 📊 Interactive Dashboard
+
+Click below to view the live report:  
+
+[![View Dashboard](https://img.shields.io/badge/Power%20BI-View%20Report-F2C811?logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNWU5OGFhMDUtYmYyOS00ZDA3LWFkMDUtYzU0ZDllMDQ0Zjk1IiwidCI6IjNjMzJjMjljLTg1YmEtNDVlZi05YTA2LTkyZmNkNjEwYThkMiJ9)
 
 ---
 
@@ -22,14 +28,6 @@ Analyzing 110K+ healthcare appointments to uncover why patients miss visits. Bui
 
 ---
 
-> ![HealthSure Appointments Dashboard](Project%20Files/HealthSure%20Appointments%20Dashboard%20PNG.png)
-> ## 📊 Interactive Dashboard
-
-Click below to view the live report:  
-
-[![View Dashboard](https://img.shields.io/badge/Power%20BI-View%20Report-F2C811?logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNWU5OGFhMDUtYmYyOS00ZDA3LWFkMDUtYzU0ZDllMDQ0Zjk1IiwidCI6IjNjMzJjMjljLTg1YmEtNDVlZi05YTA2LTkyZmNkNjEwYThkMiJ9)
-
----
 ## 1. Project Overview
 This project is an **end-to-end Business Intelligence workflow** for a healthcare organization, *Healthsure Clinics*, aiming to understand and improve patient attendance rates for scheduled appointments.
 
