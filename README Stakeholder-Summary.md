@@ -1,6 +1,8 @@
 # HealthSure Clinics – Reducing Appointment No-Shows
 
 *An end-to-end BI project analyzing 110K+ healthcare appointments in Brazil, built with MySQL + Power BI to uncover the drivers of missed visits and recommend operational fixes.*
+
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white)  ![Excel](https://img.shields.io/badge/Excel-Data%20Preparation-217346?logo=microsoft-excel&logoColor=white)  ![Power BI](https://img.shields.io/badge/BI-PowerBI-F2C811?logo=powerbi&logoColor=black)  ![Data Modeling](https://img.shields.io/badge/Model-Star%20Schema-orange)  ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![HealthSure Appointments Dashboard](Project%20Files/HealthSure%20Appointments%20Dashboard%20PNG.png)
 
 Click below to view the Live report
