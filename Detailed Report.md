@@ -1,7 +1,8 @@
 # Healthsure Clinics Appointments
 Analyzing 110K+ healthcare appointments to uncover why patients miss visits. Built a clean MySQL database, enriched it with location and socioeconomic details, and designed an interactive Power BI dashboard for quick, clear insights that help clinics act fast.
+
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white)  ![Excel](https://img.shields.io/badge/Excel-Data%20Preparation-217346?logo=microsoft-excel&logoColor=white)  ![Power BI](https://img.shields.io/badge/BI-PowerBI-F2C811?logo=powerbi&logoColor=black)  ![Data Modeling](https://img.shields.io/badge/Model-Star%20Schema-orange)  ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)   
 > ![HealthSure Appointments Dashboard](Project%20Files/HealthSure%20Appointments%20Dashboard%20PNG.png)
-> ## 📊 Interactive Dashboard
 
 Click below to view the live report:  
 
