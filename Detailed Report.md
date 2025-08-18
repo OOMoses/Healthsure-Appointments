@@ -23,6 +23,11 @@ Analyzing 110K+ healthcare appointments to uncover why patients miss visits. Bui
 ---
 
 > ![HealthSure Appointments Dashboard](Project%20Files/HealthSure%20Appointments%20Dashboard%20PNG.png)
+> ## 📊 Interactive Dashboard
+
+Click below to view the live report:  
+
+[![View Dashboard](https://img.shields.io/badge/Power%20BI-View%20Report-F2C811?logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNWU5OGFhMDUtYmYyOS00ZDA3LWFkMDUtYzU0ZDllMDQ0Zjk1IiwidCI6IjNjMzJjMjljLTg1YmEtNDVlZi05YTA2LTkyZmNkNjEwYThkMiJ9)
 
 ---
 ## 1. Project Overview
@@ -36,7 +41,6 @@ The project covers:
 - **Data visualization & storytelling** in Power BI
 - **Actionable insights** for operational improvement
 
-> 🔗 **[View the Live Power BI Dashboard]([https://app.powerbi.com/groups/me/reports/9b688526-2520-4096-8033-992822866b65/2376429563721e811450?ctid=3c32c29c-85ba-45ef-9a06-92fcd610a8d2&experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiNWU5OGFhMDUtYmYyOS00ZDA3LWFkMDUtYzU0ZDllMDQ0Zjk1IiwidCI6IjNjMzJjMjljLTg1YmEtNDVlZi05YTA2LTkyZmNkNjEwYThkMiJ9))** – Fully interactive report with filters.
 ---
 
 ## 2. Business Problem
